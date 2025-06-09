@@ -3,56 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D322FF1C-8B1E-4502-99F1-A9CE6E9A91EE}|Cars.DL\\Cars.DL.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars.dl\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D322FF1C-8B1E-4502-99F1-A9CE6E9A91EE}|Cars.DL\\Cars.DL.csproj|solutionrelative:cars.dl\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\kafkacachedistributor\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|solutionrelative:kafkacachedistributor\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D322FF1C-8B1E-4502-99F1-A9CE6E9A91EE}|Cars.DL\\Cars.DL.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars.dl\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D322FF1C-8B1E-4502-99F1-A9CE6E9A91EE}|Cars.DL\\Cars.DL.csproj|solutionrelative:cars.dl\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\kafkacachedistributor\\kafkacachedistributor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|solutionrelative:kafkacachedistributor\\kafkacachedistributor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D322FF1C-8B1E-4502-99F1-A9CE6E9A91EE}|Cars.DL\\Cars.DL.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars.dl\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D322FF1C-8B1E-4502-99F1-A9CE6E9A91EE}|Cars.DL\\Cars.DL.csproj|solutionrelative:cars.dl\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\kafkacachedistributor\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|solutionrelative:kafkacachedistributor\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D322FF1C-8B1E-4502-99F1-A9CE6E9A91EE}|Cars.DL\\Cars.DL.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars.dl\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D322FF1C-8B1E-4502-99F1-A9CE6E9A91EE}|Cars.DL\\Cars.DL.csproj|solutionrelative:cars.dl\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\kafkacachedistributor\\configurations\\kafkasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|solutionrelative:kafkacachedistributor\\configurations\\kafkasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars.bl\\cars.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|solutionrelative:cars.bl\\cars.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\kafkacachedistributor\\configurations\\mongodbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|solutionrelative:kafkacachedistributor\\configurations\\mongodbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4575E745-FFE8-47F5-8CAC-A911C97D66FB}|Cars\\Cars.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars\\cars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4575E745-FFE8-47F5-8CAC-A911C97D66FB}|Cars\\Cars.csproj|solutionrelative:cars\\cars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\kafkacachedistributor\\configurations\\workersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|solutionrelative:kafkacachedistributor\\configurations\\workersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars.bl\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|solutionrelative:cars.bl\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\kafkacachedistributor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|solutionrelative:kafkacachedistributor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars.bl\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|solutionrelative:cars.bl\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\kafkacachedistributor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|solutionrelative:kafkacachedistributor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars.bl\\interfaces\\iblcarcustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|solutionrelative:cars.bl\\interfaces\\iblcarcustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars.bl\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|solutionrelative:cars.bl\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars.bl\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|solutionrelative:cars.bl\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars.bl\\services\\blcarcustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D70843A-F34F-49A9-A85E-BDFD74926393}|Cars.BL\\Cars.BL.csproj|solutionrelative:cars.bl\\services\\blcarcustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90CF10F1-25F4-4978-A547-384C15B75945}|Cars.Models\\Cars.Models.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\cars.models\\dto\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90CF10F1-25F4-4978-A547-384C15B75945}|Cars.Models\\Cars.Models.csproj|solutionrelative:cars.models\\dto\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|c:\\users\\windows 10\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\cars\\kafkacachedistributor\\kafkacachedistributor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C159292A-23BD-45B0-AED0-7132B42169FB}|KafkaCacheDistributor\\KafkaCacheDistributor.csproj|solutionrelative:kafkacachedistributor\\kafkacachedistributor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,171 +51,112 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.DL\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "Cars.DL\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.DL\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "Cars.DL\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAwwDgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:26:20.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.DL\\Repositories\\CarRepository.cs",
-              "RelativeDocumentMoniker": "Cars.DL\\Repositories\\CarRepository.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.DL\\Repositories\\CarRepository.cs",
-              "RelativeToolTip": "Cars.DL\\Repositories\\CarRepository.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:22:23.354Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\docker-compose.yml",
+              "RelativeDocumentMoniker": "KafkaCacheDistributor\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\docker-compose.yml",
+              "RelativeToolTip": "KafkaCacheDistributor\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-09T18:21:05.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.DL\\Interfaces\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "Cars.DL\\Interfaces\\ICustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.DL\\Interfaces\\ICustomerRepository.cs",
-              "RelativeToolTip": "Cars.DL\\Interfaces\\ICustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "KafkaCacheDistributor\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\Models\\Car.cs",
+              "RelativeToolTip": "KafkaCacheDistributor\\Models\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:24:02.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cars",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars\\Cars.csproj",
-              "RelativeDocumentMoniker": "Cars\\Cars.csproj",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars\\Cars.csproj",
-              "RelativeToolTip": "Cars\\Cars.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-09T16:21:59.576Z",
+              "WhenOpened": "2025-06-09T17:41:17.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Interfaces\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "Cars.BL\\Interfaces\\ICustomerService.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Interfaces\\ICustomerService.cs",
-              "RelativeToolTip": "Cars.BL\\Interfaces\\ICustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\appsettings.json",
+              "RelativeDocumentMoniker": "KafkaCacheDistributor\\appsettings.json",
+              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\appsettings.json",
+              "RelativeToolTip": "KafkaCacheDistributor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T17:26:10.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkerSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\Configurations\\WorkerSettings.cs",
+              "RelativeDocumentMoniker": "KafkaCacheDistributor\\Configurations\\WorkerSettings.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\Configurations\\WorkerSettings.cs",
+              "RelativeToolTip": "KafkaCacheDistributor\\Configurations\\WorkerSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:20:01.202Z",
+              "WhenOpened": "2025-06-09T17:22:21.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MongoDbConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\Configurations\\MongoDbConfiguration.cs",
+              "RelativeDocumentMoniker": "KafkaCacheDistributor\\Configurations\\MongoDbConfiguration.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\Configurations\\MongoDbConfiguration.cs",
+              "RelativeToolTip": "KafkaCacheDistributor\\Configurations\\MongoDbConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:18:49.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KafkaSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\Configurations\\KafkaSettings.cs",
+              "RelativeDocumentMoniker": "KafkaCacheDistributor\\Configurations\\KafkaSettings.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\Configurations\\KafkaSettings.cs",
+              "RelativeToolTip": "KafkaCacheDistributor\\Configurations\\KafkaSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:15:53.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaCacheDistributor.csproj",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\KafkaCacheDistributor.csproj",
+              "RelativeDocumentMoniker": "KafkaCacheDistributor\\KafkaCacheDistributor.csproj",
+              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\KafkaCacheDistributor.csproj",
+              "RelativeToolTip": "KafkaCacheDistributor\\KafkaCacheDistributor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T17:13:09.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ICarService.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Interfaces\\ICarService.cs",
-              "RelativeDocumentMoniker": "Cars.BL\\Interfaces\\ICarService.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Interfaces\\ICarService.cs",
-              "RelativeToolTip": "Cars.BL\\Interfaces\\ICarService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:18:54.245Z",
-              "EditorCaption": ""
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KafkaCacheDistributor\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\appsettings.Development.json",
+              "RelativeToolTip": "KafkaCacheDistributor\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T17:26:13.232Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IBlCarCustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Interfaces\\IBlCarCustomerService.cs",
-              "RelativeDocumentMoniker": "Cars.BL\\Interfaces\\IBlCarCustomerService.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Interfaces\\IBlCarCustomerService.cs",
-              "RelativeToolTip": "Cars.BL\\Interfaces\\IBlCarCustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:17:35.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "Cars.BL\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Services\\CustomerService.cs",
-              "RelativeToolTip": "Cars.BL\\Services\\CustomerService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:14:30.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CarService.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Services\\CarService.cs",
-              "RelativeDocumentMoniker": "Cars.BL\\Services\\CarService.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Services\\CarService.cs",
-              "RelativeToolTip": "Cars.BL\\Services\\CarService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:12:34.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cars.BL.csproj",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Cars.BL.csproj",
-              "RelativeDocumentMoniker": "Cars.BL\\Cars.BL.csproj",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Cars.BL.csproj",
-              "RelativeToolTip": "Cars.BL\\Cars.BL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "KafkaCacheDistributor",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\KafkaCacheDistributor.csproj",
+              "RelativeDocumentMoniker": "KafkaCacheDistributor\\KafkaCacheDistributor.csproj",
+              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\KafkaCacheDistributor\\KafkaCacheDistributor.csproj",
+              "RelativeToolTip": "KafkaCacheDistributor\\KafkaCacheDistributor.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T11:34:27.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.DL\\Interfaces\\ICarRepository.cs",
-              "RelativeDocumentMoniker": "Cars.DL\\Interfaces\\ICarRepository.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.DL\\Interfaces\\ICarRepository.cs",
-              "RelativeToolTip": "Cars.DL\\Interfaces\\ICarRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T11:34:49.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BlCarCustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Services\\BlCarCustomerService.cs",
-              "RelativeDocumentMoniker": "Cars.BL\\Services\\BlCarCustomerService.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.BL\\Services\\BlCarCustomerService.cs",
-              "RelativeToolTip": "Cars.BL\\Services\\BlCarCustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:09:22.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.Models\\DTO\\Car.cs",
-              "RelativeDocumentMoniker": "Cars.Models\\DTO\\Car.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Cars\\Cars.Models\\DTO\\Car.cs",
-              "RelativeToolTip": "Cars.Models\\DTO\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T11:35:04.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T17:13:25.015Z"
             }
           ]
         }
