@@ -32,3 +32,21 @@ C:\Users\Windows 10\OneDrive\Работен плот\Serafimov\Cars.BL\obj\Debug
 C:\Users\Windows 10\OneDrive\Работен плот\Serafimov\Cars.BL\obj\Debug\net8.0\refint\Cars.BL.dll
 C:\Users\Windows 10\OneDrive\Работен плот\Serafimov\Cars.BL\obj\Debug\net8.0\Cars.BL.pdb
 C:\Users\Windows 10\OneDrive\Работен плот\Serafimov\Cars.BL\obj\Debug\net8.0\ref\Cars.BL.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\bin\Debug\net8.0\Cars.BL.deps.json
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\bin\Debug\net8.0\Cars.BL.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\bin\Debug\net8.0\Cars.BL.pdb
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\bin\Debug\net8.0\Cars.DL.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\bin\Debug\net8.0\Cars.Models.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\bin\Debug\net8.0\Cars.DL.pdb
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\bin\Debug\net8.0\Cars.Models.pdb
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\obj\Debug\net8.0\Cars.BL.csproj.AssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\obj\Debug\net8.0\Cars.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\obj\Debug\net8.0\Cars.BL.AssemblyInfoInputs.cache
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\obj\Debug\net8.0\Cars.BL.AssemblyInfo.cs
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\obj\Debug\net8.0\Cars.BL.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\obj\Debug\net8.0\Cars.BL.sourcelink.json
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\obj\Debug\net8.0\Cars.BL.csproj.Up2Date
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\obj\Debug\net8.0\Cars.BL.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\obj\Debug\net8.0\refint\Cars.BL.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\obj\Debug\net8.0\Cars.BL.pdb
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.BL\obj\Debug\net8.0\ref\Cars.BL.dll

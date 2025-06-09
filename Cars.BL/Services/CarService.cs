@@ -1,6 +1,9 @@
 ﻿using Cars.BL.Interfaces;
 using Cars.DL.Interfaces;
 using Cars.Models.DTO;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Cars.BL.Services
 {
@@ -13,36 +16,35 @@ namespace Cars.BL.Services
             _carRepository = carRepository;
         }
 
-        public void AddCar(Car car)
+        public async Task AddCarAsync(Car car)
         {
             if (car.Price <= 0)
             {
                 throw new ArgumentException("Car price must be greater than zero.");
             }
 
-            _carRepository.AddCar(car);
+            await _carRepository.AddCarAsync(car);
         }
 
-        public void DeleteCar(string id)
+        public async Task DeleteCarAsync(string id)
         {
-            var car = _carRepository.GetCarById(id);
+            var car = await _carRepository.GetCarByIdAsync(id);
             if (car == null)
             {
                 throw new KeyNotFoundException("Car not found.");
             }
 
-            _carRepository.DeleteCar(id);
+            await _carRepository.DeleteCarAsync(id);
         }
 
-        public List<Car> GetCars()
+        public async Task<List<Car>> GetCarsAsync()
         {
-            return _carRepository.GetCars();
+            return await _carRepository.GetCarsAsync();
         }
 
-        public Car? GetCarById(string id)
+        public async Task<Car?> GetCarByIdAsync(string id)
         {
-            return _carRepository.GetCarById(id);
+            return await _carRepository.GetCarByIdAsync(id);
         }
-
     }
 }

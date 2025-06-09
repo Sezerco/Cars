@@ -1,7 +1,9 @@
 ﻿using Cars.BL.Interfaces;
 using Cars.DL.Interfaces;
 using Cars.Models.DTO;
-
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Cars.BL.Services
 {
@@ -14,35 +16,35 @@ namespace Cars.BL.Services
             _customerRepository = customerRepository;
         }
 
-        public void AddCustomer(Customer customer)
+        public async Task AddCustomerAsync(Customer customer)
         {
             if (string.IsNullOrEmpty(customer.Email))
             {
                 throw new ArgumentException("Customer email is required.");
             }
 
-            _customerRepository.AddCustomer(customer);
+            await _customerRepository.AddCustomerAsync(customer);
         }
 
-        public void DeleteCustomer(string id)
+        public async Task DeleteCustomerAsync(string id)
         {
-            var customer = _customerRepository.GetCustomerById(id);
+            var customer = await _customerRepository.GetCustomerByIdAsync(id);
             if (customer == null)
             {
                 throw new KeyNotFoundException("Customer not found.");
             }
 
-            _customerRepository.DeleteCustomer(id);
+            await _customerRepository.DeleteCustomerAsync(id);
         }
 
-        public List<Customer> GetCustomers()
+        public async Task<List<Customer>> GetCustomersAsync()
         {
-            return _customerRepository.GetCustomers();
+            return await _customerRepository.GetCustomersAsync();
         }
 
-        public Customer? GetCustomerById(string id)
+        public async Task<Customer?> GetCustomerByIdAsync(string id)
         {
-            return _customerRepository.GetCustomerById(id);
+            return await _customerRepository.GetCustomerByIdAsync(id);
         }
     }
 }

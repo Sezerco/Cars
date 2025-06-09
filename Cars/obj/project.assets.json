@@ -2516,11 +2516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 10\\OneDrive\\Работен плот\\Serafimov\\Cars\\Cars.csproj",
+      "projectUniqueName": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars\\Cars.csproj",
       "projectName": "Cars",
-      "projectPath": "C:\\Users\\Windows 10\\OneDrive\\Работен плот\\Serafimov\\Cars\\Cars.csproj",
+      "projectPath": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars\\Cars.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 10\\OneDrive\\Работен плот\\Serafimov\\Cars\\obj\\",
+      "outputPath": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2538,8 +2538,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Windows 10\\OneDrive\\Работен плот\\Serafimov\\Cars.BL\\Cars.BL.csproj": {
-              "projectPath": "C:\\Users\\Windows 10\\OneDrive\\Работен плот\\Serafimov\\Cars.BL\\Cars.BL.csproj"
+            "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.BL\\Cars.BL.csproj": {
+              "projectPath": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.BL\\Cars.BL.csproj"
             }
           }
         }

@@ -4,6 +4,9 @@ using Cars.Models.DTO;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Cars.DL.Repositories
 {
@@ -28,25 +31,27 @@ namespace Cars.DL.Repositories
             _carsCollection = database.GetCollection<Car>($"{nameof(Car)}s");
         }
 
-        public void AddCar(Car car)
+        public async Task AddCarAsync(Car car)
         {
             car.Id = Guid.NewGuid().ToString();
-            _carsCollection.InsertOne(car);
+            await _carsCollection.InsertOneAsync(car);
         }
 
-        public void DeleteCar(string id)
+        public async Task DeleteCarAsync(string id)
         {
-            _carsCollection.DeleteOne(car => car.Id == id);
+            await _carsCollection.DeleteOneAsync(car => car.Id == id);
         }
 
-        public List<Car> GetCars()
+        public async Task<List<Car>> GetCarsAsync()
         {
-            return _carsCollection.Find(car => true).ToList();
+            var result = await _carsCollection.FindAsync(car => true);
+            return await result.ToListAsync();
         }
 
-        public Car? GetCarById(string id)
+        public async Task<Car?> GetCarByIdAsync(string id)
         {
-            return _carsCollection.Find(car => car.Id == id).FirstOrDefault();
+            var result = await _carsCollection.FindAsync(car => car.Id == id);
+            return await result.FirstOrDefaultAsync();
         }
     }
 }

@@ -7453,19 +7453,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Stany\\.nuget\\packages\\": {}
+    "C:\\Users\\Windows 10\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stany\\source\\repos\\Cars\\Cars.Tests\\Cars.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.Tests\\Cars.Tests.csproj",
       "projectName": "Cars.Tests",
-      "projectPath": "C:\\Users\\Stany\\source\\repos\\Cars\\Cars.Tests\\Cars.Tests.csproj",
-      "packagesPath": "C:\\Users\\Stany\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stany\\source\\repos\\Cars\\Cars.Tests\\obj\\",
+      "projectPath": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.Tests\\Cars.Tests.csproj",
+      "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Stany\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7480,8 +7480,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Stany\\source\\repos\\Cars\\Cars.BL\\Cars.BL.csproj": {
-              "projectPath": "C:\\Users\\Stany\\source\\repos\\Cars\\Cars.BL\\Cars.BL.csproj"
+            "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.BL\\Cars.BL.csproj": {
+              "projectPath": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.BL\\Cars.BL.csproj"
             }
           }
         }

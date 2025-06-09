@@ -4,10 +4,12 @@ using Cars.Models.DTO;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Cars.DL.Repositories
 {
-
     internal class CustomerRepository : ICustomerRepository
     {
         private readonly IMongoCollection<Customer> _customersCollection;
@@ -29,25 +31,27 @@ namespace Cars.DL.Repositories
             _customersCollection = database.GetCollection<Customer>($"{nameof(Customer)}s");
         }
 
-        public void AddCustomer(Customer customer)
+        public async Task AddCustomerAsync(Customer customer)
         {
             customer.Id = Guid.NewGuid().ToString();
-            _customersCollection.InsertOne(customer);
+            await _customersCollection.InsertOneAsync(customer);
         }
 
-        public void DeleteCustomer(string id)
+        public async Task DeleteCustomerAsync(string id)
         {
-            _customersCollection.DeleteOne(customer => customer.Id == id);
+            await _customersCollection.DeleteOneAsync(customer => customer.Id == id);
         }
 
-        public List<Customer> GetCustomers()
+        public async Task<List<Customer>> GetCustomersAsync()
         {
-            return _customersCollection.Find(customer => true).ToList();
+            var result = await _customersCollection.FindAsync(customer => true);
+            return await result.ToListAsync();
         }
 
-        public Customer? GetCustomerById(string id)
+        public async Task<Customer?> GetCustomerByIdAsync(string id)
         {
-            return _customersCollection.Find(customer => customer.Id == id).FirstOrDefault();
+            var result = await _customersCollection.FindAsync(customer => customer.Id == id);
+            return await result.FirstOrDefaultAsync();
         }
     }
 }

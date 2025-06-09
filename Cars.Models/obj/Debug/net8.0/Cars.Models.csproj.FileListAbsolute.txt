@@ -22,3 +22,16 @@ C:\Users\Windows 10\OneDrive\Работен плот\Serafimov\Cars.Models\obj\D
 C:\Users\Windows 10\OneDrive\Работен плот\Serafimov\Cars.Models\obj\Debug\net8.0\refint\Cars.Models.dll
 C:\Users\Windows 10\OneDrive\Работен плот\Serafimov\Cars.Models\obj\Debug\net8.0\Cars.Models.pdb
 C:\Users\Windows 10\OneDrive\Работен плот\Serafimov\Cars.Models\obj\Debug\net8.0\ref\Cars.Models.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\bin\Debug\net8.0\Cars.Models.deps.json
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\bin\Debug\net8.0\Cars.Models.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\bin\Debug\net8.0\Cars.Models.pdb
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\obj\Debug\net8.0\Cars.Models.csproj.AssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\obj\Debug\net8.0\Cars.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\obj\Debug\net8.0\Cars.Models.AssemblyInfoInputs.cache
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\obj\Debug\net8.0\Cars.Models.AssemblyInfo.cs
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\obj\Debug\net8.0\Cars.Models.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\obj\Debug\net8.0\Cars.Models.sourcelink.json
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\obj\Debug\net8.0\Cars.Models.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\obj\Debug\net8.0\refint\Cars.Models.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\obj\Debug\net8.0\Cars.Models.pdb
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.Models\obj\Debug\net8.0\ref\Cars.Models.dll

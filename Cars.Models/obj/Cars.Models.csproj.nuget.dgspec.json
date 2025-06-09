@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows 10\\OneDrive\\Работен плот\\Serafimov\\Cars.Models\\Cars.Models.csproj": {}
+    "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.Models\\Cars.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows 10\\OneDrive\\Работен плот\\Serafimov\\Cars.Models\\Cars.Models.csproj": {
+    "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.Models\\Cars.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 10\\OneDrive\\Работен плот\\Serafimov\\Cars.Models\\Cars.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.Models\\Cars.Models.csproj",
         "projectName": "Cars.Models",
-        "projectPath": "C:\\Users\\Windows 10\\OneDrive\\Работен плот\\Serafimov\\Cars.Models\\Cars.Models.csproj",
+        "projectPath": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.Models\\Cars.Models.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 10\\OneDrive\\Работен плот\\Serafimov\\Cars.Models\\obj\\",
+        "outputPath": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",

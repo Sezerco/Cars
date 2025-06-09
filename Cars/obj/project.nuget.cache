@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tPWqrxNjnvw=",
+  "dgSpecHash": "drbF13yfIFE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Windows 10\\OneDrive\\Работен плот\\Serafimov\\Cars\\Cars.csproj",
+  "projectFilePath": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars\\Cars.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows 10\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Windows 10\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",

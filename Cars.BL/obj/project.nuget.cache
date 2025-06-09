@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cfzuHZcWf80=",
+  "dgSpecHash": "K90wl0DFF+8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Windows 10\\OneDrive\\Работен плот\\Serafimov\\Cars.BL\\Cars.BL.csproj",
+  "projectFilePath": "C:\\Users\\Windows 10\\OneDrive\\Документи\\GitHub\\Cars\\Cars.BL\\Cars.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows 10\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",

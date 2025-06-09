@@ -28,3 +28,19 @@ C:\Users\Windows 10\OneDrive\Работен плот\Serafimov\Cars.DL\obj\Debug
 C:\Users\Windows 10\OneDrive\Работен плот\Serafimov\Cars.DL\obj\Debug\net8.0\refint\Cars.DL.dll
 C:\Users\Windows 10\OneDrive\Работен плот\Serafimov\Cars.DL\obj\Debug\net8.0\Cars.DL.pdb
 C:\Users\Windows 10\OneDrive\Работен плот\Serafimov\Cars.DL\obj\Debug\net8.0\ref\Cars.DL.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\bin\Debug\net8.0\Cars.DL.deps.json
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\bin\Debug\net8.0\Cars.DL.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\bin\Debug\net8.0\Cars.DL.pdb
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\bin\Debug\net8.0\Cars.Models.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\bin\Debug\net8.0\Cars.Models.pdb
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\obj\Debug\net8.0\Cars.DL.csproj.AssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\obj\Debug\net8.0\Cars.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\obj\Debug\net8.0\Cars.DL.AssemblyInfoInputs.cache
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\obj\Debug\net8.0\Cars.DL.AssemblyInfo.cs
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\obj\Debug\net8.0\Cars.DL.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\obj\Debug\net8.0\Cars.DL.sourcelink.json
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\obj\Debug\net8.0\Cars.DL.csproj.Up2Date
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\obj\Debug\net8.0\Cars.DL.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\obj\Debug\net8.0\refint\Cars.DL.dll
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\obj\Debug\net8.0\Cars.DL.pdb
+C:\Users\Windows 10\OneDrive\Документи\GitHub\Cars\Cars.DL\obj\Debug\net8.0\ref\Cars.DL.dll

@@ -1,12 +1,14 @@
 ﻿using Cars.Models.DTO;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Cars.DL.Interfaces
 {
     public interface ICustomerRepository
     {
-        List<Customer> GetCustomers();
-        void AddCustomer(Customer customer);
-        void DeleteCustomer(string id);
-        Customer? GetCustomerById(string id);
+        Task<List<Customer>> GetCustomersAsync();
+        Task AddCustomerAsync(Customer customer);
+        Task DeleteCustomerAsync(string id);
+        Task<Customer?> GetCustomerByIdAsync(string id);
     }
 }

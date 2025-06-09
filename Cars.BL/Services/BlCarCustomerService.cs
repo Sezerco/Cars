@@ -3,7 +3,7 @@ using Cars.Models.DTO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+
 using System.Threading.Tasks;
 
 namespace Cars.BL.Services
@@ -18,15 +18,17 @@ namespace Cars.BL.Services
             _carService = carService;
             _customerService = customerService;
         }
-        public IEnumerable<Car> GetCarsByCustomerId(string customerId)
+
+        public async Task<IEnumerable<Car>> GetCarsByCustomerIdAsync(string customerId)
         {
-            var customer = _customerService.GetCustomerById(customerId);
+            var customer = await _customerService.GetCustomerByIdAsync(customerId);
             if (customer == null)
             {
                 throw new ArgumentException("Customer not found.");
             }
 
-            return _carService.GetCars().Where(car => car.CustomerId == customerId);
+            var cars = await _carService.GetCarsAsync();
+            return cars.Where(car => car.CustomerId == customerId);
         }
     }
 }

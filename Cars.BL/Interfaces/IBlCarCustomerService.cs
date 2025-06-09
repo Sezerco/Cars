@@ -1,10 +1,11 @@
-﻿
-using Cars.Models.DTO;
+﻿using Cars.Models.DTO;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Cars.BL.Interfaces
 {
     public interface IBlCarCustomerService
     {
-        IEnumerable<Car> GetCarsByCustomerId(string customerId);
+        Task<IEnumerable<Car>> GetCarsByCustomerIdAsync(string customerId);
     }
 }
