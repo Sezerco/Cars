@@ -1,5 +1,8 @@
 using KafkaCacheDistributor.Configurations;
 using KafkaCacheDistributor.Consumers;
+using KafkaCacheDistributor.Services;
+
+
 
 IHost host = Host.CreateDefaultBuilder(args)
     .ConfigureServices((context, services) =>

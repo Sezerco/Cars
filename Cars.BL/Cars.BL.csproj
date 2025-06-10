@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Cars.DL\Cars.DL.csproj" />
+    <ProjectReference Include="..\KafkaCacheDistributor\KafkaCacheDistributor.csproj" />
   </ItemGroup>
 
 </Project>

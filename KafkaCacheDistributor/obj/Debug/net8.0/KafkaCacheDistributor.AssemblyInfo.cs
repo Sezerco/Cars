@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KafkaCacheDistributor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f9f7ff2896afbccc93512c035d97afc05686a63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f48e866abb10f6e879ace8931f38ea91654a9b19")]
 [assembly: System.Reflection.AssemblyProductAttribute("KafkaCacheDistributor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KafkaCacheDistributor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

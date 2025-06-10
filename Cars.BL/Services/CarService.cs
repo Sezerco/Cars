@@ -1,10 +1,10 @@
 ﻿using Cars.BL.Interfaces;
 using Cars.DL.Interfaces;
 using Cars.Models.DTO;
+using KafkaCacheDistributor.Cache;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-
 namespace Cars.BL.Services
 {
     public class CarService : ICarService
@@ -45,6 +45,12 @@ namespace Cars.BL.Services
         public async Task<Car?> GetCarByIdAsync(string id)
         {
             return await _carRepository.GetCarByIdAsync(id);
+        }
+
+        
+        public List<Car> GetCachedCars()
+        {
+            return InMemoryCarCache.GetAll();
         }
     }
 }
