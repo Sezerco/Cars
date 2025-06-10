@@ -1,5 +1,5 @@
-using KafkaCacheDistributor;
 using KafkaCacheDistributor.Configurations;
+using KafkaCacheDistributor.Consumers;
 
 IHost host = Host.CreateDefaultBuilder(args)
     .ConfigureServices((context, services) =>
@@ -8,7 +8,8 @@ IHost host = Host.CreateDefaultBuilder(args)
         services.Configure<MongoDbConfiguration>(context.Configuration.GetSection("MongoDb"));
         services.Configure<WorkerSettings>(context.Configuration.GetSection("WorkerSettings"));
 
-        services.AddHostedService<Worker>();
+        services.AddHostedService<Worker>();              
+        services.AddHostedService<KafkaConsumerWorker>();  
     })
     .Build();
 
